@@ -40,7 +40,7 @@ python rust_codelock.py
 
 **Note:** When the streamer mode is enabled, the code input will be hidden, and the new code will be masked.
 
-### Delay Configuration
+## Delay Configuration
 
 The delay between key presses and the initial delay are essential settings that must be configured correctly for the utility to work correctly. 
 
