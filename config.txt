@@ -1,0 +1,7 @@
+[DEFAULT]
+key = ctrl+shift+u
+code = 7777
+initial_delay = 0.5
+delay = 0.1
+streamer_mode = True
+
